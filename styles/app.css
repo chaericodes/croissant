@@ -1,5 +1,5 @@
 body {
-    background-color: #F5DEB3;
+    background-image: url(/images/croissant-bg.jpg);
 }
 
 h1 {
@@ -19,6 +19,15 @@ h1 {
     flex-direction: row;
     margin: 10px;
     margin-bottom: 20px;
+}
+
+.nav-link-color {
+    color: #54340f;
+}
+
+figcaption {
+    color: gray;
+    text-align: center;
 }
 
 .pic-1 {
