@@ -28,10 +28,9 @@ h1 {
 figcaption {
     color: gray;
     text-align: center;
+    font-size: 15px;
 }
 
-.pic-1 {
-    width: 500px;
-    height: auto;
-    margin:  20px;
+p {
+    font-size: 20px;
 }
