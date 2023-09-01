@@ -11,6 +11,7 @@ h1 {
     padding: 40px;
     margin: 60px auto;
     margin-top: 20px;
+    margin-bottom: 0px;
     background-color: white;
 }
 
@@ -33,4 +34,11 @@ figcaption {
 
 p {
     font-size: 18px;
+}
+
+.footer {
+    color: black;
+    max-width: 800px;
+    font-size: 12px !important;
+    margin: 0px auto;
 }
